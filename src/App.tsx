@@ -15,6 +15,7 @@ function App() {
     person={{firstName: '', lastName: ''}} // from Person type which is passed into Props type
     /> 
   )*/
+  
   return (
     <div className="App">
       <Counter> 
